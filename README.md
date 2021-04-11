@@ -1,2 +1,2 @@
-# git-github
+# Nikita
 this is for tutorial purpose
